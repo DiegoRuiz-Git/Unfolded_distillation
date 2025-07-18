@@ -1,0 +1,2 @@
+python ./Code_search_in_CNF.py
+kissat ./Code_search.cnf >> ./kissat.txt
