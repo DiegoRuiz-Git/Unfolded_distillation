@@ -1,0 +1,1 @@
+{"batch_size": 10000000, "preselected": [10000000, 7116529, 5958500, 4993026], "preselected&noflag": [10000000, 7116529, 5958500, 4993026], "preselected&accepted": [9373968, 6902621, 5781875, 4845173], "preselected&accepted&noflag": [9373968, 6902621, 5781875, 4845173], "preselected&accepted&fail": [2363, 742, 356, 189], "preselected&accepted&noflag&fail": [2363, 742, 356, 189]}
