@@ -22,7 +22,7 @@ rounds = 8
 # Load code 
 # -------------------------------
 
-dict_load = json.load(open('MagicCode.json', 'r'))
+dict_load = json.load(open('../CNOT order/UnfoldedCode.json', 'r'))
 
 # stabilizers of unfolded code
 stabilizers = dict_load['stabilzers']
