@@ -608,6 +608,8 @@ gap = (np.abs(complementary_gap) > threshold - 1)
 
 result_dict = {}
 
+result_dict['batch_size'] = batch_size
+
 accepted = np.all(observables[:,:4] == predicted_observables[:,:4], axis = 1)
 
 flag_index = [item for sublist in detector_order[len(stabilizers):] for item in sublist]
